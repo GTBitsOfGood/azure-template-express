@@ -1,0 +1,14 @@
+{
+  "name": "azure-template-express",
+  "version": "1.0.0",
+  "description": "A template for deploying Bits of Good Express applications with Microsoft Azure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bits of Good",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
