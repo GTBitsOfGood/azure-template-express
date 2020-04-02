@@ -4,7 +4,7 @@ const express = require('express')
  * A simple Express app with a handler
  */
 
-const PORT = 80
+const PORT = 8080 // set your port to this!
 
 const app = express()
 
