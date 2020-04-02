@@ -55,7 +55,7 @@ Use this repo as both a template & guide for easily deploying your Express appli
         bog-fall19-npp
         ```
 
-    6. Select the right Node version for your project. **Choose LTS to be safe!***
+    6. Select the right Node version for your project. **Choose LTS to be safe!**
 
     7. Now whenever you want to deploy your app, just right click your app in the Azure App Service sidebar and click `Deploy to Web App...`
 
