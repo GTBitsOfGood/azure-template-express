@@ -1,6 +1,8 @@
-# Bits of Good Azure Express Template
+![Bits of Good](images/bog_logo.svg)
 
-Use this repo as a template for easily deploying your Express application to Microsoft Azure.
+# Azure Express Template + Guide
+
+Use this repo as both a template & guide for easily deploying your Express application to Microsoft Azure.
 
 ## Questions
 
